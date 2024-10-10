@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "todo": "navee",
+      "name": "",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
